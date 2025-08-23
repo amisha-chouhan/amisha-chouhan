@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on ****React + Tailwind** projects**
 
-- 👨‍💻 All of my projects are available at [https://ashhchouhan.github.io/](https://ashhchouhan.github.io/)
+- 👨‍💻 All of my projects are available at [https://ashchouhan.github.io/](https://ashhchouhan.github.io/)
 
 - 💬 Ask me about **React, JavaScript, CSS, responsive UI**
 
